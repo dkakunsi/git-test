@@ -1,1 +1,6 @@
-{"domain":"test","name":"Test name","id":"10029381","detail":"detail 1"}
+{
+  "domain": "test",
+  "name": "Test name",
+  "id": "10029381",
+  "detail": "detail 1"
+}
